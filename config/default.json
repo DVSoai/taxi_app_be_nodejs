@@ -1,0 +1,10 @@
+{
+  "dbConfig": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "taxi_driver_app",
+    "timezone": "utc+7:00",
+    "charset": "utf8mb4"
+  }
+}

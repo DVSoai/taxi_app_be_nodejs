@@ -1,0 +1,29 @@
+{
+  "name": "taxi_driver_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "config": "^3.3.12",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "debug": "^4.3.7",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "http-errors": "^2.0.0",
+    "moment-timezone": "^0.5.46",
+    "morgan": "^1.10.0",
+    "multiparty": "^4.2.3",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.8.1",
+    "uuid": "^11.0.2"
+  }
+}
